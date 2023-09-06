@@ -2,4 +2,4 @@
 title: "Generalized Linear Models"
 ---
 
-Course info & details here
+Course info & details here.
