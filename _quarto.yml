@@ -3,15 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Course Title"
+  title: "Generalized Linear Models"
   sidebar:
-    background: primary
-    # logo: "images/logo.png"
+    background: "#9B0014"
     pinned: true
     align: center
     tools:
       - icon: github
-        href: https://github.com/Pakillo/quarto-course-website-template
+        href: https://github.com/filippogambarota/test-quarto
         text: GitHub
     style: docked
     contents:
@@ -21,13 +20,11 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
-      - href: https://github.com/Pakillo/quarto-course-website-template/discussions
-        text: Forum
 
 format:
   html:
     theme: cosmo
-    # css: styles.css
+    css: styles.css
     toc: true
 
 execute:
